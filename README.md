@@ -3,7 +3,7 @@ Activity Detection in Distributed MIMO: Distributed AMP via Likelihood Ratio Fus
 
 This is a code package for the following scientific article:
 
-Jianan Bai and Erik G. Larsson, "[Activity detection in distributed MIMO: Distributed AMP via Likelihood Ratio Fusion](https://arxiv.org/pdf/2208.03070.pdf)," IEEE Wireless Communications Letters, to appear, doi: 10.1109/LWC.2022.3197053.
+Jianan Bai and Erik G. Larsson, "[Activity detection in distributed MIMO: Distributed AMP via Likelihood Ratio Fusion](https://arxiv.org/abs/2208.03070)," IEEE Wireless Communications Letters, to appear, doi: 10.1109/LWC.2022.3197053.
 
 ## Abstract of Article
 
