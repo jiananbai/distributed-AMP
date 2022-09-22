@@ -13,6 +13,7 @@ We develop a new algorithm for activity detection for grant-free multiple access
 
 This work was supported in part by ELLIIT, the KAW foundation, and the European Union’s Horizon 2020 research and innovation program under grant agreement no. 101013425 (REINDEER).
 
+We use the implementation of covariance-based approach from https://github.com/emilbjornson/grant-free.
 
 ## License and Referencing
 
