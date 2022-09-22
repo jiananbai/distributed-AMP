@@ -1,4 +1,4 @@
-Massive MIMO with Dual-Polarized Antennas
+Activity Detection in Distributed MIMO: Distributed AMP via Likelihood Ratio Fusion
 ==================
 
 This is a code package for the following scientific article:
